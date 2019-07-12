@@ -69,9 +69,16 @@ sgap.requestPayment(totalPrice, currency)
 -   Resolves when the journey is complete, with the stripe token
 -   Rejects if an error occurs
 
-## Contributing
+## Switch to PRODUCTION
 
-PRs welcome!
+You need to request for production access before test on production environment. Carefully go through the [CHECK LIST](https://developers.google.com/pay/api/android/guides/test-and-deploy/integration-checklist) mentioned in this [LINK](https://developers.google.com/pay/api/android/guides/test-and-deploy/integration-checklist) and [REQUEST PRODUCTION ACCESS](https://services.google.com/fb/forms/googlepayAPIenable)
+
+## Why this error after switching to PRODUCTION?
+
+#### Request Failed
+
+Make sure you check the APK on a real device and not on an emulator.
+
 
 ## License
 
