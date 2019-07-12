@@ -11,5 +11,12 @@
   "bugs": {
     "url": "https://github.com/asangadev/cordova-plugin-stripe-google-pay/issues"
   },
-  "homepage": "https://github.com/asangadev/cordova-plugin-stripe-google-pay#readme"
+  "homepage": "https://github.com/asangadev/cordova-plugin-stripe-google-pay#readme",
+  "keywords": [
+    "Stripe",
+    "Cordova",
+    "Google Pay Cordova",
+    "Google Pay Phonegap",
+    "Strip Google PayCordova"
+  ]
 }
