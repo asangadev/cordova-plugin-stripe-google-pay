@@ -1,6 +1,6 @@
 # cordova-plugin-stripe-google-pay
 
-Cordova plugin for Stripe Google pay integration
+Cordova plugin for Stripe - Google Pay integration
 
 ## Notes
 
