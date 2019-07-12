@@ -1,0 +1,15 @@
+{
+  "name": "cordova-plugin-stripe-google-pay",
+  "version": "0.0.1",
+  "description": "Cordova plugin for Stripe Googlepay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asangadev/cordova-plugin-stripe-google-pay.git"
+  },
+  "author": "Asanga Dev <asanga.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asangadev/cordova-plugin-stripe-google-pay/issues"
+  },
+  "homepage": "https://github.com/asangadev/cordova-plugin-stripe-google-pay#readme"
+}
