@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-stripe-google-pay",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Cordova plugin for Stripe Googlepay",
   "repository": {
     "type": "git",
