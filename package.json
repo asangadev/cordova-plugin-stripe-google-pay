@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-stripe-google-pay",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Cordova plugin for Stripe - Google Pay",
   "repository": {
     "type": "git",
@@ -13,10 +13,10 @@
   },
   "homepage": "https://github.com/asangadev/cordova-plugin-stripe-google-pay#readme",
   "keywords": [
-    "Stripe",
-    "Cordova",
-    "Google Pay Cordova",
-    "Google Pay Phonegap",
-    "Strip Google PayCordova"
+    "stripe",
+    "cordova",
+    "google pay cordova",
+    "google pay phonegap",
+    "strip google pay cordova"
   ]
 }
