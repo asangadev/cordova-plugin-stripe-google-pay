@@ -6,7 +6,7 @@
   version="0.0.1"
   >
     <name>cordova-plugin-stripe-google-pay</name>
-    <description>Cordova plugin for Stripe Google pay integration</description>
+    <description>Cordova plugin for Stripe - Google Pay integration</description>
     <license>MIT</license>
     <keywords>cordova,stripe,google,pay</keywords>
     <author>Asanga Dev</author>
